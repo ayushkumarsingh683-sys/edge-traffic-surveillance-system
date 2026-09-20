@@ -64,5 +64,5 @@ An end-to-end edge computer vision pipeline engineered for multi-vehicle detecti
 +-------------------------------+         +-------------------------------+
 
 
-https://github.com/user-attachments/assets/cde158bb-3e94-4d29-8f74-5c716dcb8dae
+
 
