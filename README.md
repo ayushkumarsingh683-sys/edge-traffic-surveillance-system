@@ -1,3 +1,7 @@
+
+
+
+
 # Real-Time Edge Traffic Analytics & Vehicle Telemetry Pipeline
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -58,3 +62,7 @@ An end-to-end edge computer vision pipeline engineered for multi-vehicle detecti
 |  - Vehicle Class Counts       |         |  - Instantaneous Velocity     |
 |  - Speed Infraction Warnings  |         |  - Compliance Status Flags    |
 +-------------------------------+         +-------------------------------+
+
+
+https://github.com/user-attachments/assets/cde158bb-3e94-4d29-8f74-5c716dcb8dae
+
