@@ -1,0 +1,17 @@
+﻿# Python cache
+__pycache__/
+*.pyc
+
+# Environment & IDE
+.vscode/
+.idea/
+traffic-env/
+*.env
+
+# Outputs & Generated data
+exports/violations/*.jpg
+!exports/violations/.gitkeep
+exports/telemetry_log.csv
+
+# Large Model Weights (YOLO automatically downloads yolo11n.pt if missing)
+*.onnx
